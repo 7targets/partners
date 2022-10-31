@@ -38,17 +38,7 @@ The application uses third party services that may collect information used to i
 1. [Google Sign-in](https://policies.google.com/privacy)  
 1. [Microsoft Sign-in](https://privacy.microsoft.com/en-us/privacystatement)  
 
-__C. OTHER INFORMATION__  
-7Targets also collects standard information from Visitors using automated tools. These automated tools collect information such as a Visitor’s browser type and language, Internet service provider, Internet protocol (IP) address, access dates and times, Web pages viewed, search information, and other similar statistics. The automated tools used by us to collect this information include, without limitation, Web beacons, cookies, embedded Web links and other commonly used information-gathering tools.  
-A Web beacon is an invisible file located on a Web page that is used to track a visitor’s navigation of a Website. The Web beacon may communicate with your computer to determine, among other things, whether you have been to a page on our Website before or viewed a particular online advertisement.  
-A cookie is a small data file saved on your computer by a Website that you visit. 7Targets uses cookies to identify return visitors to its Website. You can set your browser to warn you before accepting cookies, and you can choose to refuse cookies by turning them off in your browser. You do not need to enable cookies in your browser to visit our Website.  
-An embedded link is a link to a Web page that may be located in an email you receive from us. If you click on an embedded link, we may collect information about the interaction that follows, and this information could be connected to your identity. If you do not want us to collect information about the links you click, you can opt to receive text-based emails or you can choose not to click links in an email from 7Targets.  
-
-__D. Disclosure regarding information received from Google APIs__
-
-7Targets use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
-
-__E. Google User Data__
+__C. Google User Data__
 
 If you choose to connect a Gmail account to 7Targets, while creating the Assistant, we will ask you to grant 7Targets application permissions to access your Gmail account. These permissions are necessary to sustain the functionality of our Services. In particular, we will need to access yo send emails on your behalf as well to detect replies to emails that have been sent via 7Targets.
 
@@ -59,6 +49,16 @@ Also, we will store your authentication token and account email address and name
 At 7Targets, we do not use data obtained from our customers (from their Google accounts) for advertising purposes; this includes personalized, re-targeted, and interest-based advertising.
 
 Our employees, contractors, and any human, in general, are not allowed to access your personal information, including the data obtained via Google API. We could access user data only after obtaining the user's affirmative agreement. We may need access to the user data to resolve a support issue, provide advice on service usage or provide any other help, requested by the user. Also, we can access such information when/if necessary for a security investigation or comply with applicable laws.
+
+__D. Disclosure regarding information received from Google APIs__
+
+7Targets use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
+
+__C. OTHER INFORMATION__  
+7Targets also collects standard information from Visitors using automated tools. These automated tools collect information such as a Visitor’s browser type and language, Internet service provider, Internet protocol (IP) address, access dates and times, Web pages viewed, search information, and other similar statistics. The automated tools used by us to collect this information include, without limitation, Web beacons, cookies, embedded Web links and other commonly used information-gathering tools.  
+A Web beacon is an invisible file located on a Web page that is used to track a visitor’s navigation of a Website. The Web beacon may communicate with your computer to determine, among other things, whether you have been to a page on our Website before or viewed a particular online advertisement.  
+A cookie is a small data file saved on your computer by a Website that you visit. 7Targets uses cookies to identify return visitors to its Website. You can set your browser to warn you before accepting cookies, and you can choose to refuse cookies by turning them off in your browser. You do not need to enable cookies in your browser to visit our Website.  
+An embedded link is a link to a Web page that may be located in an email you receive from us. If you click on an embedded link, we may collect information about the interaction that follows, and this information could be connected to your identity. If you do not want us to collect information about the links you click, you can opt to receive text-based emails or you can choose not to click links in an email from 7Targets.  
 
 __3. USING THE INFORMATION WE COLLECT__  
 The information we collect is used to provide services to Customers, a Visitor’s experience on this Website, configure marketing and outreach programs, compile anonymous statistics for the purpose of improving the Website, track the number of times advertisements and emails are viewed, correspond with potential new customers (subject to their consent), and update services on a periodic basis. 
