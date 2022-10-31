@@ -28,10 +28,10 @@ product and service preferences;
 service orders and maintenance requests;  
 billing and transaction information; and  
 other information relevant to conducting business with us or becoming a customer of ours.  
-Personal Information is not collected from individuals unless they consent to provide such information to 7Targets.   However, if a Visitor arrives at our website via a search engine, referral tool or forum, certain Personal Information may be transmitted to us by a third party. We will use and store that information, if any is received, in accordance with this policy. 
+Personal Information is not collected from individuals unless they consent to provide such information to 7Targets.  However, if a Visitor arrives at our website via a search engine, referral tool or forum, certain Personal Information may be transmitted to us by a third party. We will use and store that information, if any is received, in accordance with this policy. 
 
 __B. OAUTH2 SPECIFIC INFORMATION__  
-To provide better experience, and in order to provide the Service, we may require you to provide us, either directly or indirectly, with certain personally identifiable information, including but not limited to user name, and Oauth2 credentials. The information that we request will be retained by us and used as described in this privacy policy.
+To provide better experience, and in order to provide the Service to you as our customers, we may require you to provide us, either directly or indirectly, with certain personally identifiable information, including but not limited to user name, email and Oauth2 credentials. The information that we request will be retained by us and used as described in this privacy policy.
 
 The application uses third party services that may collect information used to identify you. Links to privacy policies of third party service providers used by 7Targets:
 
