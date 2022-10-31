@@ -4,16 +4,19 @@ permalink: /others/privacy-policy/
 ---
 
 **PRIVACY POLICY**  
-Updated on 31st Oct 2022   
+Updated on 31st Oct 2022 
 
-7Targets(also termed as "the solution", "the service", "the application") adheres to strict privacy guidelines with respect to all individuals who visit this Website and/or use the solution, provide personal information, or contacts us via the avenues on this Website. This statement details 7Targets’s methods of collection, storage, and usage of information.  
-**1. DEFINITIONS**  
-“Visitor” or “you” means any individual or entity who visits 7Targets’s Website, whether they are a customer or not.  
-“Customer” means an individual who is a client or user of 7Targets.  
-“Personal Information” means any information or set of information that identifies or could be used by or on behalf of 7Targets to identify an individual. Personal Information does not include information that is encoded or anonymized, or publicly available information that has not been combined with nonpublic Personal Information.  
-“We”, “us” or “the company” refers to 7Targets.  
-“Website” means 7Targets’s Website at https://7Targets.ai  or https://7Targets.com or https://solution.7targets.com  
-**2. THE INFORMATION WE COLLECT AND USE**  
+**1. INTRODUCTION**
+This Privacy Policy (“Policy”) describes how 7Targets AI Assistant ("7Targets,” “we,” “us,” “our”), collects, uses, and discloses information when you visit our websites or use our application. This Policy applies to our websites at https://7Targets.ai, https://7Targets.com or https://solution.7targets.com .
+
+Please read this Policy carefully to understand how we handle information about you. By using our application, you acknowledge that you have read and understood this Policy and that we collect, use, and share information as set forth below.  
+
+**2. ABOUT THE APPLICATION**  
+7Targets is an AI Assistant that helps followup on emails. Your AI Assistant will write and read emails for the purpose of Followups.
+
+By creating a 7Targets AI assistant for your email accounts, you authorize to send and receive emails in those accounts. 
+
+**2. THE INFORMATION WE COLLECT**  
 __A. PERSONAL INFORMATION__  
 We collect Personal Information from Visitors and Customers via interactive tools and forms located on our Website. Our interactive forms and tools include, but are not limited to, LivePerson Chat and Contact Us. We do not collect, store, or use any Personal Information without an individual’s prior consent. 7Targets only collects, stores, and uses Personal Information in accordance with this policy. Personal Information that may be collected by our company includes the following:  
 individual names;  
@@ -40,6 +43,22 @@ __C. OTHER INFORMATION__
 A Web beacon is an invisible file located on a Web page that is used to track a visitor’s navigation of a Website. The Web beacon may communicate with your computer to determine, among other things, whether you have been to a page on our Website before or viewed a particular online advertisement.  
 A cookie is a small data file saved on your computer by a Website that you visit. 7Targets uses cookies to identify return visitors to its Website. You can set your browser to warn you before accepting cookies, and you can choose to refuse cookies by turning them off in your browser. You do not need to enable cookies in your browser to visit our Website.  
 An embedded link is a link to a Web page that may be located in an email you receive from us. If you click on an embedded link, we may collect information about the interaction that follows, and this information could be connected to your identity. If you do not want us to collect information about the links you click, you can opt to receive text-based emails or you can choose not to click links in an email from 7Targets.  
+
+__D. Disclosure regarding information received from Google APIs__
+
+7Targets use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
+
+__E. Google User Data__
+
+If you choose to connect a Gmail account to 7Targets, while creating the Assistant, we will ask you to grant 7Targets application permissions to access your Gmail account. These permissions are necessary to sustain the functionality of our Services. In particular, we will need to access yo send emails on your behalf as well to detect replies to emails that have been sent via 7Targets.
+
+Our servers only store emails that you have sent via 7Targets and any responses you have received to those emails so we can detect replies, classify them, and provide access to them in your 7Targets account. All data obtained via Gmail API is available in your 7Targets account.
+
+Also, we will store your authentication token and account email address and name. This data will be securely stored to be used by 7Targets to provide you with the Services (including but not limited to logging into your account, sending emails via the 7Targets platform, accessing emails you sent, and viewing replies you received to these emails). Under no circumstances will this data be voluntarily shared with any third parties; 7Targets could only provide this information to legal authorities upon their lawful request. Should you choose to disconnect your Gmail account or decide to close your account, any information from Google that is stored on our servers will be removed permanently.
+
+At 7Targets, we do not use data obtained from our customers (from their Google accounts) for advertising purposes; this includes personalized, re-targeted, and interest-based advertising.
+
+Our employees, contractors, and any human, in general, are not allowed to access your personal information, including the data obtained via Google API. We could access user data only after obtaining the user's affirmative agreement. We may need access to the user data to resolve a support issue, provide advice on service usage or provide any other help, requested by the user. Also, we can access such information when/if necessary for a security investigation or comply with applicable laws.
 
 __3. USING THE INFORMATION WE COLLECT__  
 The information we collect is used to provide services to Customers, a Visitor’s experience on this Website, configure marketing and outreach programs, compile anonymous statistics for the purpose of improving the Website, track the number of times advertisements and emails are viewed, correspond with potential new customers (subject to their consent), and update services on a periodic basis. 
