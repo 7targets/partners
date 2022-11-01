@@ -40,7 +40,7 @@ The application uses third party services that may collect information used to i
 
 __C. Google User Data__
 
-If you choose to connect a Gmail account to 7Targets, while creating the Assistant, we will ask you to grant 7Targets application permissions to access your Gmail account. These permissions are necessary to sustain the functionality of our Services. In particular, we will need to access yo send emails on your behalf as well to detect replies to emails that have been sent via 7Targets.
+If you choose to connect a Gmail account to 7Targets, while creating the Assistant, we will ask you to grant 7Targets application permissions to access your Gmail account. These permissions are necessary to sustain the functionality of our Services. In particular, we will need to access to send emails on your behalf as well to detect replies to emails that have been sent via 7Targets.
 
 Our servers only store emails that you have sent via 7Targets and any responses you have received to those emails so we can detect replies, classify them, and provide access to them in your 7Targets account. All data obtained via Gmail API is available in your 7Targets account.
 
@@ -61,7 +61,7 @@ A cookie is a small data file saved on your computer by a Website that you visit
 An embedded link is a link to a Web page that may be located in an email you receive from us. If you click on an embedded link, we may collect information about the interaction that follows, and this information could be connected to your identity. If you do not want us to collect information about the links you click, you can opt to receive text-based emails or you can choose not to click links in an email from 7Targets.  
 
 __3. USING THE INFORMATION WE COLLECT__  
-The information we collect is used to provide services to Customers, a Visitor’s experience on this Website, configure marketing and outreach programs, compile anonymous statistics for the purpose of improving the Website, track the number of times advertisements and emails are viewed, correspond with potential new customers (subject to their consent), and update services on a periodic basis. 
+The information we collect is used to provide services to Customers, improve Visitor’s experience on this Website, configure marketing and outreach programs, compile anonymous statistics for the purpose of improving the Website, track the number of times advertisements and emails are viewed, correspond with potential new customers (subject to their consent), and update services on a periodic basis. 
 
 __4. EXTERNAL LINKS__  
 7Targets includes links to external Websites. Among other things, these links may lead you to white papers, reference articles, agency or authority Websites, press releases, customer Websites, and the Websites of our preferred vendors for offered services. We do not transmit any Visitor information to these sites. We have no control or authority over the privacy policies of any third parties. Therefore, we strongly advise you to review the privacy policy of any externally linked websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites or services. 
